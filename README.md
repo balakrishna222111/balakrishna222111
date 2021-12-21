@@ -2,6 +2,9 @@
 
 ## I'm Balakrishna
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=balakrishna222111&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515">
+
+
 <h3>Tech Stacks:</h3>
 
 |<img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/aws.png" width=60 alt="aws icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/azure.png" width=60 alt="azure icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/gcp.png" width=60 alt="gcp icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/k8s.png" width=60 alt="k8s icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/docker.png" width=60 alt="docker icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/nodejs.png" width=60 alt="nodejs icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/python.png" width=60 alt="python icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/elk.png" width=60 alt="elk icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/helm.png" width=60 alt="helm icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/jenkins.png" width=60 alt="jenkins icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/terraform.png" width=60 alt="terraform icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/Prometheus.png" width=60 alt="Prometheus icon"> | <img src="https://raw.githubusercontent.com/balakrishna222111/balakrishna222111/main/assets/Grafana.png" width=60 alt="grafana icon"> |
