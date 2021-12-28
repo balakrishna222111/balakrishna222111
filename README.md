@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/balakrishna-teeda-b85b3492/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:balakrishna222111@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://balakrishna.dev" target="_blank"><img src="https://img.shields.io/badge/Website-%231ED760.svg?&style=for-the-badge&logo=Website&logoColor=white" alt="Website"></a>
+<a href="https://balakrishna222111.github.io/balakrishna/" target="_blank"><img src="https://img.shields.io/badge/Website-%231ED760.svg?&style=for-the-badge&logo=Website&logoColor=white" alt="Website"></a>
 <hr>
 
 ### Happy coding!
